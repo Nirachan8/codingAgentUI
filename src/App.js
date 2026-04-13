@@ -1,3 +1,4 @@
+// Agent test change for KAN-4
 import logo from './logo.svg';
 import './App.css';
 
